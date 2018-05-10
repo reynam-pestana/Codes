@@ -1,0 +1,2 @@
+mpirun: Error: unknown option "-f"
+Type 'mpirun --help' for usage.
